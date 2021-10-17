@@ -1,5 +1,5 @@
 {
-  "name": "desk-booking2",
+  "name": "desk-booking",
   "version": "0.0.0",
   "scripts": {
     "dev": "vite",
@@ -7,6 +7,9 @@
     "serve": "vite preview"
   },
   "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.15.4",
+    "@tailwindcss/forms": "^0.3.4",
+    "date-fns": "^2.25.0",
     "react": "^17.0.0",
     "react-dom": "^17.0.0"
   },

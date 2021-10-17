@@ -1,0 +1,13 @@
+{
+  "printWidth": 80,
+  "trailingComma": "es5",
+  "tabWidth": 2,
+  "tabs": true,
+  "parser": "typescript",
+  "overrides": [
+    {
+      "files": ".prettierrc",
+      "options": { "parser": "json" }
+    }
+  ]
+}
